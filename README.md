@@ -23,21 +23,7 @@ Developed a 5-page Power BI dashboard to analyze sales performance, profitabilit
 - Excel/CSV
 
 ## Dashboard Preview
-
-### Executive Overview
-![Page1](screenshots/page1.png)
-
-### Category Intelligence
-![Page2](screenshots/page2.png)
-
-### Customer Intelligence
-![Page3](screenshots/page3.png)
-
-### Product Intelligence
-![Page4](screenshots/page4.png)
-
-### Regional Intelligence
-![Page5](screenshots/page5.png)
+https://app.powerbi.com/groups/me/reports/2f839540-5aa9-481c-af39-e0d4f45c292a/5ef7c2c03d0304bd1039?experience=power-bi
 
 ## Author
 Rakesh Mahakur
