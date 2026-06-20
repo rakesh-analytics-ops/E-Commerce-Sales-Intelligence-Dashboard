@@ -21,6 +21,8 @@ Developed a 5-page Power BI dashboard to analyze sales performance, profitabilit
 - Power Query
 - DAX
 - Excel/CSV
+- ETL
+- Python
 
 ## Dashboard Preview
 https://app.powerbi.com/groups/me/reports/2f839540-5aa9-481c-af39-e0d4f45c292a/5ef7c2c03d0304bd1039?experience=power-bi
